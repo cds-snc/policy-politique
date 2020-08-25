@@ -1,0 +1,34 @@
+{{ if eq .Lang "en" }}
+<p>
+  This project was built by the
+  <a href="https://digital.canada.ca"
+    >Canadian Digital Service</a
+  >. Read the
+  <a href="https://digital.canada.ca/legal/terms/"
+    >terms and conditions</a
+  >.
+</p>
+<p>
+  <a
+    href="{{ site.Params.githubUrl }}"
+    >Contribute to this documentation.</a
+  >
+</p>
+{{else}}
+<p>
+  Ce projet a été élaboré par le
+  <a href="https://numerique.canada.ca"
+    >Service numérique canadien</a
+  >. Lire les
+  <a href="https://numerique.canada.ca/transparence/avis/"
+    >avis de termes et conditions</a
+  >.
+</p>
+<p>
+  <a
+    href="{{ site.Params.githubUrl }}"
+    >Contribuer à cette documentation.</a
+  >
+</p>
+{{ end }}
+

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+    <head>
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta charset="utf-8" />
+        <link rel="canonical" href="{{ .Permalink }}">
+
+        <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+
+        <link rel="stylesheet" href="/css/normalize.css" />
+        <link rel="stylesheet" href="/css/main.css" />
+        <link rel="stylesheet" href="/css/syntax.css" />
+
+    </head>
+
+    <body>
+        <div class="container">
+          <header>
+            <div class="wrap">
+                <!-- Logo -->
+                {{ if site.Params.logoUrl }}
+                <img class="logo" src="{{ site.Params.logoUrl }}" alt="{{ site.Params.logoAlt }}" />
+                {{ end }}
+                <div class="site-title">
+                <!-- Site title -->
+                <a class="title-link" href="#">{{ .Site.Title }}</a>
+                </div>
+                {{ if .IsTranslated }}
+                    <!-- Translation links -->
+                    <h2 class="float-right">
+                    {{ range .Translations }}
+                        <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+                    {{ end }}
+                    </h2>
+                {{ end }}
+            </div>
+          </header>
+    
+          <div class="wrap content">
+            <!-- Sidebar -->
+            {{ partial "sidebar.html" . }}
+    
+            <section id="main" class="main-content" role="main">
+                <!-- Content -->
+                {{ block "main_content" . }}
+                <article role="article" class="">{{ .Content }}</article>
+                {{ end }}
+            </section>
+          </div>
+          <!-- /.wrap content -->
+    
+          <footer>
+            <div class="wrap">
+              <!-- Footer -->
+              {{ partial "footer.html" . }}
+            </div>
+            <!--/.wrap -->
+          </footer>
+        </div>
+        <!-- /.container -->
+      </body>
+</html>

@@ -1,0 +1,16 @@
+<aside>
+    {{ if site.Params.tagline }}
+    <p class="intro">{{ site.Params.tagline }}</p>
+    {{ end }}
+    <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
+    <nav class="sidebar-nav">
+      <ul>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <li class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} sidebar-nav-active active{{end}}">
+            <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+        </li> 
+        {{ end }}
+      </ul>
+    </nav>
+  </aside>
