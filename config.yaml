@@ -1,0 +1,87 @@
+DefaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+sitemap:
+  filename: sitemap.xml
+languages:
+  en:
+    # baseUrl: https://digital.canada.ca/
+    contentDir: content/en
+    lang: en
+    languageName: English
+    title: Blog
+    params: 
+      tagline: ""
+      githubUrl: "https://github.com/cds-snc/"
+      logoSrc: ""
+      logoAlt: ""
+    Paginate: 6
+    frontmatter:
+      date: [":filename", ":default"]
+    permalinks:
+      blog: /:year/:month/:day/:filename
+      work-with-us: /:title
+      pages: /:title
+    weight: 1
+    menu:
+      main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: 1
+        - identifier: partnerships
+          name: Partnerships
+          url: /partnerships/
+          weight: 2
+        - identifier: tools
+          name: Tools and resources
+          url: /tools-and-resources/
+          weight: 3
+        - identifier: meet-the-team
+          name: Who we are
+          url: /meet-the-team/
+          weight: 4
+        - identifier: blog
+          name: Blog
+          url: /blog/
+          weight: 5
+  fr:
+    # baseUrl: https://numerique.canada.ca/
+    contentDir: content/fr
+    lang: fr
+    languageName: Français
+    title: Blogue
+    params: 
+      tagline: ""
+      githubUrl: "https://github.com/cds-snc/"
+      logoSrc: ""
+      logoAlt: ""
+    Paginate: 6
+    weight: 2
+    frontmatter:
+      date: [":filename", ":default"]
+    permalinks:
+      blog: /:year/:month/:day/:filename
+      work-with-us: /:title
+      pages: /:title
+    menu:
+      main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: 1
+        - identifier: partenariats
+          name: Partenariats
+          url: /partenariats/
+          weight: 2
+        - identifier: outils
+          name: Outils et ressources
+          url: /outils-et-ressources/
+          weight: 3
+        - identifier: rencontrez-lequipe
+          name: Qui nous sommes
+          url: /rencontrez-lequipe/
+          weight: 4
+        - identifier: blogue
+          name: Blogue
+          url: /blogue/
+          weight: 5
