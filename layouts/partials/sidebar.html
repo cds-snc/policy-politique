@@ -2,7 +2,7 @@
     {{ if site.Params.tagline }}
     <p class="intro">{{ site.Params.tagline }}</p>
     {{ end }}
-    <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
+    <a class="skip-link visuallyhidden focusable" href="#main">{{ if eq .Lang "en" }}Skip to Main Content{{else}}Passer au contenu principal{{ end }}</a>
     <nav class="sidebar-nav">
       <ul>
         {{ $currentPage := . }}
