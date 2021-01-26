@@ -1,5 +1,9 @@
 /* Extra CSS for the publications repo */
 
+.publications-table-heading {
+    margin-bottom: 0;
+}
+
 .publications-table {
     width: 100%;
     table-layout: fixed;

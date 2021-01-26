@@ -1,0 +1,18 @@
+date-completed:
+  other: "Date completed"
+details:
+  other: "Details"
+print:
+  other: "Print"
+contributors:
+  other: "Contributors"
+target-audience:
+  other: "Target audience"
+summary:
+  other: "Summary"
+canonical-url:
+  other: "Canonical URL"
+date-added:
+  other: "Date added"
+date-added-to-this-repository:
+  other: "Date added to this repository"

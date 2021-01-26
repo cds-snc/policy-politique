@@ -2,7 +2,7 @@
 
 <nav role="navigation">
     <ul>
-        {{ range (where .Site.RegularPages.ByDate.Reverse "Section" "docs" ) }}
+        {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "docs" ) }}
         <li>
             {{ if .Params.showDate }}
             {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006")}} --
@@ -15,4 +15,4 @@
     </ul>
 </nav>
 
-<a href="/en/publications/">See all publications</a>
+<a href="{{ "/publications/" | relLangURL }}">See all publications</a>

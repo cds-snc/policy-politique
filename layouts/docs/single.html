@@ -1,0 +1,61 @@
+{{ define "main_content" }}
+
+<h1 class="page-title">{{ .Title | markdownify }}</h1>
+
+<div class="docs-metadata-container">
+    <div class="docs-metadata">
+        <div class="float-left">
+            <span class="btn-text" title="{{ i18n "date-completed" }}">{{ .Date.Format "2006-01-02"  }}</span>
+        </div>
+        <div class="float-right d-print-none">
+            
+            <a class="btn js-toggle" href="#docs-metadata-details">{{ i18n "details" }}</a>
+            <button class="btn" onclick="window.print()">{{ i18n "print" }}</button>
+            <a class="btn" href="{{ "/publications/" | relLangURL }}">See all publications</a>
+        </div>
+    </div>
+    <aside class="docs-metadata-details" id="docs-metadata-details" style="display: none;">
+        <table class="table">
+            <tbody>
+                <tr>
+                    <th style="width: 30%;">{{ i18n "date-completed" }}</th>
+                    <td>{{ .Date.Format "2006-01-02"  }}</td>
+                </tr>
+                {{ if .Params.author }}
+                <tr>
+                    <th>{{ i18n "contributors" }}</th>
+                    <td>{{ .Params.author  }}</td>
+                </tr>
+                {{ end }}
+                {{ if .Params.targetAudience }}
+                <tr>
+                    <th>{{ i18n "target-audience" }}</th>
+                    <td>{{ .Params.targetAudience  }}</td>
+                </tr>
+                {{ end }}
+                {{ if .Params.description }}
+                <tr>
+                    <th>{{ i18n "summary" }}</th>
+                    <td>{{ .Params.description  }}</td>
+                </tr>
+                {{ end }}
+                {{ if .Params.canonicalUrl }}
+                <tr>
+                    <th>{{ i18n "canonical-url" }}</th>
+                    <td><a href="{{ .Params.canonicalUrl  }}" target="_blank">{{ .Params.canonicalUrl  }}</a></td>
+                </tr>
+                {{ end }}
+                {{ if .Params.datePublished }}
+                <tr>
+                    <th><span title="{{ i18n "date-added-to-this-repository" }}">{{ i18n "date-added" }}</span></th>
+                    <td>{{ .Params.datePublished  }}</td>
+                </tr>
+                {{ end }}
+            </tbody>
+        </table>
+    </aside>
+</div>
+
+{{ .Content }}
+
+{{ end }}

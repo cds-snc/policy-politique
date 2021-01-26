@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+    <head>
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta charset="utf-8" />
+        <link rel="canonical" href="{{ .Permalink }}">
+
+        <title>{{ block "title" . }}{{ .Title }} – {{ .Site.Title }}{{ end }}</title>
+
+        <link rel="stylesheet" href="/css/normalize.css" />
+        <link rel="stylesheet" href="/css/docs.css" />
+
+    </head>
+
+    <body>
+        <div class="container">
+          <header>
+            <div class="wrap">
+                <!-- Logo -->
+                {{ if site.Params.logoUrl }}
+                <img class="logo" src="{{ site.Params.logoUrl }}" alt="{{ site.Params.logoAlt }}" />
+                {{ end }}
+                <div class="site-title float-left">
+                <!-- Site title -->
+                <a class="title-link" href="{{ "/" | relLangURL }}">{{ .Site.Title }}</a>
+                </div>
+                {{ if .IsTranslated }}
+                    <!-- Translation links -->
+                    <div class="float-right language-link d-print-none">
+                    {{ range .Translations }}
+                        <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+                    {{ end }}
+                    </div>
+                {{ end }}
+            </div>
+          </header>
+    
+          <div class="wrap content">
+    
+            <section id="main" class="main-content" role="main">
+                <!-- Content -->
+                {{ block "main_content" . }}
+                <article role="article" class="">{{ .Content }}</article>
+                {{ end }}
+            </section>
+          </div>
+          <!-- /.wrap content -->
+    
+          <footer class="d-print-none">
+            <div class="wrap">
+              <!-- Footer -->
+              {{ partial "footer.html" . }}
+            </div>
+            <!--/.wrap -->
+          </footer>
+        </div>
+        <!-- /.container -->
+
+        <script type="text/javascript">
+        
+// Thanks to
+// https://gomakethings.com/how-to-show-and-hide-elements-with-vanilla-javascript/
+
+// Show an element
+var show = function (elem) {
+	elem.style.display = 'block';
+};
+
+// Hide an element
+var hide = function (elem) {
+	elem.style.display = 'none';
+};
+
+// Toggle element visibility
+var toggle = function (elem) {
+
+	// If the element is visible, hide it
+	if (window.getComputedStyle(elem).display === 'block') {
+		hide(elem);
+		return;
+	}
+
+	// Otherwise, show it
+	show(elem);
+
+};
+
+// Listen for click events
+document.addEventListener('click', function (event) {
+
+  // Make sure clicked element is our toggle
+  if (!event.target.classList.contains('js-toggle')) return;
+
+  // Prevent default link behavior
+  event.preventDefault();
+
+  // Get the content
+  var content = document.querySelector(event.target.hash);
+  if (!content) return;
+
+  // Toggle the content
+  toggle(content);
+
+}, false);
+
+        </script>
+      </body>
+</html>
