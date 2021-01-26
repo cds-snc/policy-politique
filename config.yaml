@@ -8,7 +8,7 @@ languages:
     contentDir: content/en
     lang: en
     languageName: English
-    title: Blog
+    title: CDS Policy Repository
     params: 
       tagline: ""
       githubUrl: "https://github.com/cds-snc/"
@@ -20,13 +20,14 @@ languages:
     permalinks:
       blog: /:year/:month/:day/:filename
       pages: /:title/
+      docs: /:year/:title/
     weight: 1
   fr:
     # baseUrl: https://numerique.canada.ca/
     contentDir: content/fr
     lang: fr
     languageName: Français
-    title: Blogue
+    title: "Dépôt de l’équipe politique SNC"
     params: 
       tagline: ""
       githubUrl: "https://github.com/cds-snc/"
@@ -39,3 +40,4 @@ languages:
     permalinks:
       blog: /:year/:month/:day/:filename
       pages: /:title/
+      docs: /:year/:title/

@@ -1,0 +1,18 @@
+<h2>Recent publications</h2>
+
+<nav role="navigation">
+    <ul>
+        {{ range (where .Site.RegularPages.ByDate.Reverse "Section" "docs" ) }}
+        <li>
+            {{ if .Params.showDate }}
+            {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006")}} --
+            {{ end }}
+            <a href="{{.RelPermalink}}">
+                {{.Title | markdownify}}
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+</nav>
+
+<a href="/en/publications/">See all publications</a>

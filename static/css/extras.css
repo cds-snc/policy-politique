@@ -1,0 +1,33 @@
+/* Extra CSS for the publications repo */
+
+.publications-table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.publications-table small {
+    font-size: 80%;
+    display: block;
+}
+
+.publications-table th {
+    text-align: left;
+}
+
+/* Thanks to
+https://stackoverflow.com/a/41654853 */
+.publications-table tr:nth-child(even) {
+background:#fafafa;
+}
+.publications-table tr:nth-child(odd) {
+/* background:rgba(255,255,255,0.3); */
+}
+
+.publications-table td, .publications-table  th {
+    border: 0;
+    border-bottom: 1px solid #6f6f6f;
+}
+
+.publications-table tr:last-child td {
+    border-bottom: 0;
+}

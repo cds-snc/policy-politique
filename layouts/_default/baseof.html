@@ -11,6 +11,7 @@
         <link rel="stylesheet" href="/css/normalize.css" />
         <link rel="stylesheet" href="/css/main.css" />
         <link rel="stylesheet" href="/css/syntax.css" />
+        <link rel="stylesheet" href="/css/extras.css" />
 
     </head>
 
@@ -24,7 +25,7 @@
                 {{ end }}
                 <div class="site-title">
                 <!-- Site title -->
-                <a class="title-link" href="#">{{ .Site.Title }}</a>
+                <a class="title-link" href="{{ "/" | relLangURL }}">{{ .Site.Title }}</a>
                 </div>
                 {{ if .IsTranslated }}
                     <!-- Translation links -->
