@@ -5,9 +5,8 @@
 <table class="publications-table">
     <thead>
         <tr>
-            <th style="width: 60%;">{{ i18n "description" }}</th>
-            <th style="width: 20%;">{{ i18n "date-completed" }}</th>
-            <th><span title="{{ i18n "date-added-to-this-repository" }}">{{ i18n "date-added" }}</span></th>
+            <th style="width: 80%;">{{ i18n "description" }}</th>
+            <th>{{ i18n "date-completed" }}</th>
         </tr>
     </thead>
     <tbody>
@@ -21,9 +20,10 @@
                 {{ if .Params.targetAudience }}
                 <small><b>{{ i18n "target-audience" }}:</b> {{ .Params.targetAudience }}</small>
                 {{ end }}
+                <small><b><span title="{{ i18n "date-added-to-this-repository" }}">{{ i18n "date-added" }}</span>:</b> {{ .Params.datePublished }}</small>
+                
             </td>
             <td>{{ .Params.date.Format "2006-01-02" }}</td>
-            <td>{{ .Params.datePublished }}</td>
         </tr>
         {{ end }}
     </tbody>
