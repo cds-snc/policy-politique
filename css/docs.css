@@ -1,0 +1,193 @@
+/* Inspired by
+https://documentation.notification.canada.ca/en/
+ */
+
+body {
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 18px;
+    color: #2c3e50;
+
+    height:100%;margin:0;
+}
+
+section.main-content {
+    margin: 5rem auto;
+    max-width: 48rem;
+}
+
+.docs-metadata {
+    margin-bottom: 1.5rem;
+}
+
+.docs-metadata:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.docs-metadata-details {
+    background: #f1f2f2;
+    padding: 1.5rem 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+ol, p, ul {
+    line-height: 1.7;
+    margin: 0 0 1.5rem;
+}
+
+/* Buttons, inspired by Bootstrap */
+.btn {
+    padding: .25rem .5rem;
+    font-size: .875rem;
+    line-height: 1.5;
+    border-radius: .2rem;
+
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+
+    /* background-color: #6f6f6f;
+    color: #fff; */
+    /* background-color: #dde0e3; */
+    background-color: #f4f5f6;
+    color: #2c3e50;
+    /* border-color: #6f6f6f; */
+    border-color: #cfd4d8;
+
+    text-decoration: none;
+
+}
+
+.btn:hover, .btn:active {
+    background-color: #6f6f6f;
+    border-color: #6f6f6f;
+    color: #fff;
+}
+
+.btn-text {
+    display: inline-block;
+    padding: .20rem 0;
+    /* font-size: .875rem; */
+    line-height: 1.5;
+}
+
+/* Tables */
+
+table.table {
+    width: 100%;
+}
+
+table.table td, table.table th {
+    text-align: left;
+    vertical-align: top;
+    padding: 0.2em 0;
+}
+
+/* From the standard repo page design */
+a.title-link {
+    color: #6f6f6f;
+    border-bottom: none;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 1.625em;
+}
+
+header .wrap {
+    padding: 2em 1em;
+    padding-top: 1em;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+footer {
+    /* display: table-row; */
+    /* height: 1px; */
+    /* border-top: 2px solid #babbbd; */
+    background: #f1f2f2;
+    /* width: 100%; */
+    font-size: 0.875em;
+}
+
+footer .wrap {
+    padding: 2em 1em;
+}
+
+footer p {
+    margin: 0 0 0.5em;
+}
+
+/* Media queries */
+@media print {
+
+    body {
+        font-size: 16px;
+    }
+
+    section.main-content {
+        margin-top: 1rem;
+    }
+
+    header .wrap {
+        padding-left: 0;
+    }
+
+    .docs-metadata-details {
+        font-size: 14px;
+        background: transparent;
+        padding: 0;
+        margin-bottom: 1.5rem;
+    }
+
+    section.main-content a:any-link {
+        color: rgb(0, 0, 238);
+    }
+
+}
+
+
+
+/* Print settings, adapted from Bootstrap */
+@media print {
+
+    .d-print-none {
+        display: none!important;
+    }
+
+    .d-print-block {
+        display: block!important;
+    }
+
+}
+
+@media screen {
+
+    .d-none {
+        display: none!important;
+    }
+
+}
