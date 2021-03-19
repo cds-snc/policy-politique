@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dépôt de l’équipe politique SNC</title>
+    <title>Accueil on Dépôt de l’équipe politique SNC</title>
     <link>https://cds-snc.github.io/policy-politique/fr/</link>
-    <description>Recent content on Dépôt de l’équipe politique SNC</description>
+    <description>Recent content in Accueil on Dépôt de l’équipe politique SNC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 Jan 2021 18:03:01 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 17:56:34 -0700</lastBuildDate>
     
 	<atom:link href="https://cds-snc.github.io/policy-politique/fr/index.xml" rel="self" type="application/rss+xml" />
     
@@ -29,16 +29,6 @@ Qui nous sommes  John Millons (chef des politiques) John Kenney Lucas Cherkew
       <guid>https://cds-snc.github.io/policy-politique/fr/publications/</guid>
       <description>Les documents ci-dessous sont énumérés par l’année où ils ont été effectués. Vous pouvez consulter d’autres métadonnées et imprimer des documents en suivant les liens ci-dessous :
 2019   Description Date complété      Offrir des services numériques d’ici 2025 Sommaire: Les Canadiennes et les Canadiens s’attendent à des services numériques qui reflètent l’ère d’Internet. Des mesures concrètes et audacieuses nous aideront à répondre à ces attentes.</description>
-    </item>
-    
-    <item>
-      <title>Offrir des services numériques d’ici 2025</title>
-      <link>https://cds-snc.github.io/policy-politique/fr/2019/offrir-des-services-num%C3%A9riques-dici-2025/</link>
-      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://cds-snc.github.io/policy-politique/fr/2019/offrir-des-services-num%C3%A9riques-dici-2025/</guid>
-      <description>En septembre 2018, la Table sur les industries numériques, qui fait partie des Tables de stratégies économiques du Canada et qui regroupe une douzaine de chefs d’entreprise canadiens, a publié un rapport intitulé L’impératif de l’innovation et de la compétitivité : Saisir les occasions de croissance. Le rapport a clairement lancé ce défi au gouvernement du Canada :
- Rendre numériques tous les services du gouvernement qui s’adressent au public d’ici 2025, pour qu’ils soient accessibles sur Internet et les téléphones mobiles, et offerts par un système de connexion unifié.</description>
     </item>
     
   </channel>
