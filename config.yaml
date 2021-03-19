@@ -8,7 +8,7 @@ languages:
     contentDir: content/en
     lang: en
     languageName: English
-    title: CDS Policy Repository
+    title: CDS Policy Team Repository
     params: 
       tagline: ""
       githubUrl: "https://github.com/cds-snc/"
