@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Dépôt de l’équipe politique SNC</title>
-    <link>/fr/categories/</link>
+    <link>https://cds-snc.github.io/policy-politique/fr/categories/</link>
     <description>Recent content in Categories on Dépôt de l’équipe politique SNC</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cds-snc.github.io/policy-politique/fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

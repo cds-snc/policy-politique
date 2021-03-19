@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Dépôt de l’équipe politique SNC</title>
-    <link>/fr/docs/</link>
+    <link>https://cds-snc.github.io/policy-politique/fr/docs/</link>
     <description>Recent content in Docs on Dépôt de l’équipe politique SNC</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/fr/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cds-snc.github.io/policy-politique/fr/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Offrir des services numériques d’ici 2025</title>
-      <link>/fr/2019/offrir-des-services-num%C3%A9riques-dici-2025/</link>
+      <link>https://cds-snc.github.io/policy-politique/fr/2019/offrir-des-services-num%C3%A9riques-dici-2025/</link>
       <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/fr/2019/offrir-des-services-num%C3%A9riques-dici-2025/</guid>
+      <guid>https://cds-snc.github.io/policy-politique/fr/2019/offrir-des-services-num%C3%A9riques-dici-2025/</guid>
       <description>En septembre 2018, la Table sur les industries numériques, qui fait partie des Tables de stratégies économiques du Canada et qui regroupe une douzaine de chefs d’entreprise canadiens, a publié un rapport intitulé L’impératif de l’innovation et de la compétitivité : Saisir les occasions de croissance. Le rapport a clairement lancé ce défi au gouvernement du Canada :
  Rendre numériques tous les services du gouvernement qui s’adressent au public d’ici 2025, pour qu’ils soient accessibles sur Internet et les téléphones mobiles, et offerts par un système de connexion unifié.</description>
     </item>

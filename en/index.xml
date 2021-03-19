@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CDS Policy Team Repository</title>
-    <link>/en/</link>
+    <link>https://cds-snc.github.io/policy-politique/en/</link>
     <description>Recent content on CDS Policy Team Repository</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 25 Jan 2021 18:03:01 -0700</lastBuildDate>
     
-	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cds-snc.github.io/policy-politique/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/en/about/</link>
+      <link>https://cds-snc.github.io/policy-politique/en/about/</link>
       <pubDate>Mon, 25 Jan 2021 18:03:01 -0700</pubDate>
       
-      <guid>/en/about/</guid>
+      <guid>https://cds-snc.github.io/policy-politique/en/about/</guid>
       <description>CDS’s mission is to change government to serve people better.
 The Policy team supports this mission by helping product teams, communities, and leadership at CDS navigate government processes, overcome barriers, and work as effectively as possible.
 Who we are  John Millons (head of policy) John Kenney Lucas Cherkewski Michael Karlin Sam Burton Sarah Hobson Sean Boots  What we do Our work tends to cover three main areas:
@@ -24,20 +24,20 @@ Who we are  John Millons (head of policy) John Kenney Lucas Cherkewski Michael K
     
     <item>
       <title>Publications</title>
-      <link>/en/publications/</link>
+      <link>https://cds-snc.github.io/policy-politique/en/publications/</link>
       <pubDate>Mon, 25 Jan 2021 17:55:01 -0700</pubDate>
       
-      <guid>/en/publications/</guid>
+      <guid>https://cds-snc.github.io/policy-politique/en/publications/</guid>
       <description>The documents below are listed by year that they were completed. You can see additional metadata and print documents by following the links below:
 2019   Description Date completed      Delivering digital services by 2025 Summary: Canadians expect digital services that reflect the Internet era. Concrete, bold actions will help us meet those expectations. We look forward to developing this roadmap together with all of you.</description>
     </item>
     
     <item>
       <title>Delivering digital services by 2025</title>
-      <link>/en/2019/delivering-digital-services-by-2025/</link>
+      <link>https://cds-snc.github.io/policy-politique/en/2019/delivering-digital-services-by-2025/</link>
       <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/2019/delivering-digital-services-by-2025/</guid>
+      <guid>https://cds-snc.github.io/policy-politique/en/2019/delivering-digital-services-by-2025/</guid>
       <description>In September 2018, the Digital Industries Table — part of Canada’s Economic Strategy Tables and made up of a dozen Canadian business leaders — published a report titled The Innovation and Competitiveness Imperative: Seizing Opportunities for Growth. The report pointedly issued this challenge to the Government of Canada:
  Digitize all public-facing government services so they are accessible by web and mobile phone and available behind a unified login system by 2025.</description>
     </item>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on CDS Policy Team Repository</title>
-    <link>/en/docs/</link>
+    <link>https://cds-snc.github.io/policy-politique/en/docs/</link>
     <description>Recent content in Docs on CDS Policy Team Repository</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/en/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cds-snc.github.io/policy-politique/en/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Delivering digital services by 2025</title>
-      <link>/en/2019/delivering-digital-services-by-2025/</link>
+      <link>https://cds-snc.github.io/policy-politique/en/2019/delivering-digital-services-by-2025/</link>
       <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/en/2019/delivering-digital-services-by-2025/</guid>
+      <guid>https://cds-snc.github.io/policy-politique/en/2019/delivering-digital-services-by-2025/</guid>
       <description>In September 2018, the Digital Industries Table — part of Canada’s Economic Strategy Tables and made up of a dozen Canadian business leaders — published a report titled The Innovation and Competitiveness Imperative: Seizing Opportunities for Growth. The report pointedly issued this challenge to the Government of Canada:
  Digitize all public-facing government services so they are accessible by web and mobile phone and available behind a unified login system by 2025.</description>
     </item>
