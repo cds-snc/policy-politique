@@ -18,5 +18,7 @@ date-added-to-this-repository:
   other: "Date added to this repository"
 see-all-publications:
   other: "See all publications"
+recent-publications:
+  other: "Recent publications"
 description:
   other: "Description"

@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2021-01-25T18:03:01-07:00
-draft: false
+description: "CDS’s mission is to change government to serve people better. The Policy team supports this mission by helping product teams, communities, and leadership at CDS navigate government processes, overcome barriers, and work as effectively as possible."
 menu:
     main:
         weight: 3
@@ -11,23 +11,17 @@ CDS’s mission is to **change government to serve people better**.
 
 The Policy team supports this mission by helping product teams, communities, and leadership at CDS navigate government processes, overcome barriers, and work as effectively as possible.
 
-### Who we are
+## Who we are
 
-John Millons (head of policy)
+*   John Millons (head of policy)
+*   John Kenney
+*   Lucas Cherkewski
+*   Michael Karlin
+*   Sam Burton
+*   Sarah Hobson
+*   Sean Boots
 
-John Kenney
-
-Lucas Cherkewski
-
-Michael Karlin
-
-Sam Burton
-
-Sarah Hobson
-
-Sean Boots
-
-### What we do
+## What we do
 
 Our work tends to cover three main areas:
 

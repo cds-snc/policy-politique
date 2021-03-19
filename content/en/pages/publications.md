@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 date: 2021-01-25T17:55:01-07:00
-draft: false
+description: "This page lists documents completed by the CDS Policy Team, listed by year that they were completed."
 menu:
     main:
         weight: 2

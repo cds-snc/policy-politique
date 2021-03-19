@@ -2,8 +2,7 @@
 title: "Home"
 url: "/en/"
 date: 2020-08-24T17:56:34-07:00
-draft: false
-
+description: "This repository serves as a public archive of past work undertaken by the CDS Policy Team. These documents are published as part of CDS’s commitment to working in the open. They represent a historical view of CDS’s work, and may not necessarily reflect CDS’s current approach or strategic priorities."
 menu:
     main:
         name: Home
@@ -12,7 +11,7 @@ menu:
 
 # Home
 
-This repository serves as a public archive of past work undertaken [by our team](/about), working with other CDS communities and with teams across the Government of Canada. 
+This repository serves as a public archive of past work undertaken [by our team](/about), working with other CDS communities and with teams across the Government of Canada.
 
 These documents are published here as part of CDS’s commitment to [working in the open](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), one of the Government of Canada’s [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html). They represent a historical view of CDS’s work, and may not necessarily reflect CDS’s current approach or strategic priorities.
 
@@ -24,8 +23,10 @@ Feedback on these documents is welcome! You can get in touch by [sending an emai
 
 ## Learn more
 
-*   Canadian Digital Service blog
-*   CDS GitHub organization
-*   Product handbook
-*   Design research handbook
-*   Talent handbook
+*   [Canadian Digital Service blog](https://digital.canada.ca/blog/)
+*   [CDS Technical Playbook](https://cds-snc.github.io/technical-playbook-manuel-technique/)
+*   [CDS Accessibility Handbook](https://digital.canada.ca/a11y/)
+*   [CDS Guide for product teams](https://cds-snc.github.io/guide-product-teams-equipes-produits/)
+*   [CDS Design research handbook](https://cds-snc.github.io/design-research-handbook/)
+*   [CDS Talent handbook](https://cds-snc.github.io/talent/)
+*   [CDS GitHub organization](https://github.com/cds-snc/)
