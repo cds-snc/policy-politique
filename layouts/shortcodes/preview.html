@@ -1,6 +1,6 @@
 {{ range (where .Site.RegularPages.ByTitle "Section" "docs" ).GroupByDate "2006" }}
 
-<h3 class="publications-table-heading">{{ .Key }}</h3>
+<h2 class="publications-table-heading" id="y{{ .Key }}">{{ .Key }}</h2>
 
 <table class="publications-table">
     <thead>
