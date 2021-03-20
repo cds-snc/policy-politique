@@ -58,4 +58,13 @@
 
 {{ .Content }}
 
+<div class="docs-metadata-container-footer">
+    <div class="docs-metadata">
+        <div class="float-right d-print-none">
+            <button class="btn" onclick="window.print()">{{ i18n "print" }}</button>
+            <a class="btn" href="{{ "/publications/" | relLangURL }}">{{ i18n "see-all-publications" }}</a>
+        </div>
+    </div>
+</div>
+
 {{ end }}
