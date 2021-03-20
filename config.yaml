@@ -1,4 +1,5 @@
 baseURL: "https://cds-snc.github.io/policy-politique/"
+removePathAccents: true
 DefaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 sitemap:
