@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Accueil on Dépôt de l’équipe politique SNC</title>
+    <title>Dépôt de l’équipe politique SNC</title>
     <link>https://cds-snc.github.io/policy-politique/fr/</link>
-    <description>Recent content in Accueil on Dépôt de l’équipe politique SNC</description>
+    <description>Recent content on Dépôt de l’équipe politique SNC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 24 Aug 2020 17:56:34 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jan 2021 18:03:01 -0700</lastBuildDate>
     
 	<atom:link href="https://cds-snc.github.io/policy-politique/fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>À propos de nous</title>
-      <link>https://cds-snc.github.io/policy-politique/fr/%C3%A0-propos-de-nous/</link>
+      <link>https://cds-snc.github.io/policy-politique/fr/a-propos-de-nous/</link>
       <pubDate>Mon, 25 Jan 2021 18:03:01 -0700</pubDate>
       
-      <guid>https://cds-snc.github.io/policy-politique/fr/%C3%A0-propos-de-nous/</guid>
+      <guid>https://cds-snc.github.io/policy-politique/fr/a-propos-de-nous/</guid>
       <description>La mission du SNC consiste à apporter des changements au gouvernement pour mieux servir la population.
 L’équipe chargée des politiques appuie cette mission en aidant les équipes de produits, les collectivités et les dirigeants du SNC à s’y retrouver dans les processus gouvernementaux, à surmonter les obstacles et à travailler le plus efficacement possible.
 Qui nous sommes  John Millons (chef des politiques) John Kenney Lucas Cherkewski Michael Karlin Sam Burton Sarah Hobson Sean Boots  Ce que nous faisons Notre travail a tendance à couvrir trois principaux domaines :</description>
@@ -31,12 +31,12 @@ Qui nous sommes  John Millons (chef des politiques) John Kenney Lucas Cherkew
 2019   Description Date complété      Offrir des services numériques d’ici 2025 Sommaire: Les Canadiennes et les Canadiens s’attendent à des services numériques qui reflètent l’ère d’Internet. Des mesures concrètes et audacieuses nous aideront à répondre à ces attentes.</description>
     </item>
     
-  </channel>
-</rss>es numériques d’ici 2025</title>
-      <link>https://cds-snc.github.io/policy-politique/fr/2019/offrir-des-services-num%C3%A9riques-dici-2025/</link>
+    <item>
+      <title>Offrir des services numériques d’ici 2025</title>
+      <link>https://cds-snc.github.io/policy-politique/fr/2019/offrir-des-services-numeriques-dici-2025/</link>
       <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cds-snc.github.io/policy-politique/fr/2019/offrir-des-services-num%C3%A9riques-dici-2025/</guid>
+      <guid>https://cds-snc.github.io/policy-politique/fr/2019/offrir-des-services-numeriques-dici-2025/</guid>
       <description>En septembre 2018, la Table sur les industries numériques, qui fait partie des Tables de stratégies économiques du Canada et qui regroupe une douzaine de chefs d’entreprise canadiens, a publié un rapport intitulé L’impératif de l’innovation et de la compétitivité : Saisir les occasions de croissance. Le rapport a clairement lancé ce défi au gouvernement du Canada :
  Rendre numériques tous les services du gouvernement qui s’adressent au public d’ici 2025, pour qu’ils soient accessibles sur Internet et les téléphones mobiles, et offerts par un système de connexion unifié.</description>
     </item>

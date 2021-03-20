@@ -13,7 +13,7 @@ body {
 }
 
 section.main-content {
-    margin: 5rem auto;
+    margin: 5rem auto 3.5rem;
     max-width: 48rem;
 }
 
@@ -31,6 +31,10 @@ section.main-content {
     background: #f1f2f2;
     padding: 1.5rem 1.5rem;
     margin-bottom: 1.5rem;
+}
+
+.docs-metadata-container-footer {
+    margin-top: 2.5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
