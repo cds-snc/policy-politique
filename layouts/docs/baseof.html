@@ -4,12 +4,14 @@
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta charset="utf-8" />
+
+        <base href="{{ .Site.BaseURL }}">
         <link rel="canonical" href="{{ .Permalink }}">
 
         <title>{{ block "title" . }}{{ .Title }} – {{ .Site.Title }}{{ end }}</title>
 
-        <link rel="stylesheet" href="/css/normalize.css" />
-        <link rel="stylesheet" href="/css/docs.css" />
+        <link rel="stylesheet" href="{{ .Site.BaseURL }}css/normalize.css" />
+        <link rel="stylesheet" href="{{ .Site.BaseURL }}css/docs.css" />
 
     </head>
 
