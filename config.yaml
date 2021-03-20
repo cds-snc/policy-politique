@@ -13,7 +13,7 @@ languages:
     title: CDS Policy Team Repository
     params: 
       tagline: ""
-      githubUrl: "https://github.com/cds-snc/"
+      githubUrl: "https://github.com/cds-snc/policy-politique"
       logoSrc: ""
       logoAlt: ""
     Paginate: 6
@@ -32,7 +32,7 @@ languages:
     title: "Dépôt de l’équipe politique SNC"
     params: 
       tagline: ""
-      githubUrl: "https://github.com/cds-snc/"
+      githubUrl: "https://github.com/cds-snc/policy-politique"
       logoSrc: ""
       logoAlt: ""
     Paginate: 6
