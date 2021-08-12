@@ -67,7 +67,7 @@ L’équipe de couverture devrait relever d’un seul cadre supérieur du servic
 
 Le travail préparatoire à la mise en place d’une équipe de couverture prendrait de quatre à six mois à compter du moment où l’on décide d’opter pour une approche de couverture, en raison du temps requis pour le financement, le recrutement, la vérification de la sécurité et le démarrage d’une équipe. Cela comprend la fourniture de locaux à bureaux et des outils nécessaires à un environnement de travail efficace, décrit ci-dessus. Les coûts de ce travail préparatoire dépendraient des ressources ministérielles existantes et de la rapidité de l’embauche et de l’intégration, et se situeraient dans une fourchette de 150 000 $ à 300 000 $.
 
-À la suite de ce travail préparatoire, un engagement sur une période de 12 mois (aussi peu que 1,5 million de dollars pour une petite équipe multidisciplinaire) laisse suffisamment de temps pour mettre à l’essai le modèle de couverture pour une initiative donnée. Cela comprend de 2 à 4 mois de recherche axée sur la découverte et de 8 à 10 mois de prototypage, d’itération et de mise à l’échelle. 
+À la suite de ce travail préparatoire, un engagement sur une période de 12 mois (aussi peu que 1,5 million de dollars pour une petite équipe multidisciplinaire) laisse suffisamment de temps pour mettre à l’essai le modèle de couverture pour une initiative donnée. Cela comprend d’environ 2 à 4 mois de recherche axée sur la découverte et de 8 à 10 mois de prototypage, d’itération et de mise à l’échelle. 
 
 À la fin de cette période, la haute direction pourrait évaluer la valeur offerte par l’équipe (dans le contexte de l’initiative intégrale). Les options pour la suite comprendraient les suivantes :
 

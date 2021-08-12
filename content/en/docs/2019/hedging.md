@@ -67,7 +67,7 @@ The hedge team should report to a single top-level executive in the responsible 
 
 Initial work to stand up a hedge team would take 4-6 months, between the decision to hedge and a team being funded, recruited, security-cleared, and operational. This includes provisioning the office space and tools required for an effective working environment, described above. Costs of this setup time would depend on existing departmental resources and the speed of hiring and onboarding — and would likely be in the $150k to $300k range.
 
-Following that initial setup work, committing to a 12 month period (as little as $1.5M for one small multidisciplinary team) provides sufficient time to test the hedging model for a given initiative. This includes 2-4 months of initial discovery research and 8-10 months of prototyping, iterating, and scaling. 
+Following that initial setup work, committing to a 12 month period (as little as $1.5M for one small multidisciplinary team) provides sufficient time to test the hedging model for a given initiative. This includes roughly 2-4 months of initial discovery research and 8-10 months of prototyping, iterating, and scaling. 
 
 As this period comes to a close, senior leadership could assess the value delivered by the team (in context of the larger initiative). Options for moving ahead would include:
 
