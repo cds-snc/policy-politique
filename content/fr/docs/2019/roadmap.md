@@ -4,6 +4,8 @@ slug: "feuille-de-route"
 description: "Les Canadiennes et les Canadiens s’attendent à des services numériques qui reflètent l’ère d’Internet. Des mesures concrètes et audacieuses nous aideront à répondre à ces attentes. Nous avons hâte d’élaborer cette feuille de route avec vous tous."
 date: 2019-05-13
 datePublished: 2021-01-18
+author: "Aaron Snow, Sean Boots, Josh Ruihley, Alex MacEachern et l’équipe"
+canonicalUrl: "https://numerique.canada.ca/feuille-de-route-2025/"
 draft: false
 ---
 

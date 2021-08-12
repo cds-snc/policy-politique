@@ -4,7 +4,6 @@ description: "Canadians expect digital services that reflect the Internet era. C
 date: 2019-05-13
 datePublished: 2021-01-18
 author: "Aaron Snow, Sean Boots, Josh Ruihley, Alex MacEachern and team"
-targetAudience: "Senior public service leadership"
 canonicalUrl: "https://digital.canada.ca/roadmap-2025/"
 draft: false
 ---
