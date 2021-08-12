@@ -1,6 +1,12 @@
 {{ define "main_content" }}
 
-<h1 class="page-title">{{ .Title | markdownify }}</h1>
+<div class="title-container">
+    <h1 class="page-title">{{ .Title | markdownify }}</h1>
+
+    {{ if .Params.subtitle }}
+    <p class="page-subtitle">{{ .Params.subtitle | markdownify }}</p>
+    {{ end }}
+</div>
 
 <div class="docs-metadata-container">
     <div class="docs-metadata">

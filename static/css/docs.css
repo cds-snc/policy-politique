@@ -13,7 +13,7 @@ body {
 }
 
 section.main-content {
-    margin: 5rem auto 3.5rem;
+    margin: 5.4rem auto 3.5rem;
     max-width: 48rem;
 }
 
@@ -45,6 +45,24 @@ h1, h2, h3, h4, h5, h6 {
 ol, p, ul {
     line-height: 1.7;
     margin: 0 0 1.5rem;
+}
+
+.title-container {
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.page-title {
+    line-height: 1;
+    margin-bottom: 0; 
+}
+
+.page-subtitle {
+    line-height: 1; 
+    font-size: 1.4em;
+    font-weight: 600;
+    margin-top: 0.7em;
+    margin-bottom: 0.7em;
 }
 
 /* Buttons, inspired by Bootstrap */
