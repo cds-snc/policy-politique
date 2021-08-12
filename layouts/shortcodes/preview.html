@@ -10,10 +10,15 @@
         </tr>
     </thead>
     <tbody>
-        {{ range .Pages.ByTitle }}
+        {{ range .Pages.ByDate.Reverse }}
         <tr>
             <td>
-                <b><a href="{{.RelPermalink}}">{{.Title | markdownify}}</a></b><br/>
+                {{ if .Params.canonicalUrl }}
+                <b><a href="{{ .Params.canonicalUrl }}" target="_blank">{{.Title | markdownify}}</a></b> <br/>({{.Params.canonicalUrl}})<br/>
+                {{ else }}
+                    <b><a href="{{.RelPermalink}}">{{.Title | markdownify}}</a></b><br/>
+                {{ end }}
+                
                 {{ if .Params.description }}
                 <small><b>{{ i18n "summary" }}:</b> {{ .Params.description }}</small>
                 {{ end }}

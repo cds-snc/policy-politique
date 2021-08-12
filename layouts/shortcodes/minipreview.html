@@ -7,9 +7,15 @@
             {{ if .Params.showDate }}
             {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006")}} --
             {{ end }}
+            {{ if .Params.canonicalUrl }}
+            <a href="{{.Params.canonicalUrl}}" target="_blank">
+                {{.Title | markdownify}}
+            </a>
+            {{ else }}
             <a href="{{.RelPermalink}}">
                 {{.Title | markdownify}}
             </a>
+            {{ end }}
         </li>
         {{ end }}
     </ul>
