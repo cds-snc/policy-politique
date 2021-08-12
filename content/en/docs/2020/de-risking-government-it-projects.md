@@ -1,6 +1,6 @@
 ---
 title: "De-risking government IT projects"
-subtitle: "Sample questions for Program Sector"
+subtitle: "Sample challenge function questions"
 description: "The GC Digital Standards provide a useful framing for challenge questions, applicable to online services, back-office systems, and IT projects in general. This guide is adapted from questions developed originally by 18F."
 date: 2020-02-28
 datePublished: 2021-09-10
