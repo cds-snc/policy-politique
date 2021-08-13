@@ -29,4 +29,4 @@ Our work tends to cover three main areas:
 2. **Scaling delivery:** Sharing what works and what doesn’t based on delivery experience,  to inform policy-making and enable others to work more effectively towards digital service delivery.
 3. Providing **strategic policy** functions for and handling departmental corporate processes on behalf of CDS.
 
-You can learn more about our work in [this 2018 blog post](https://digital.canada.ca/2018/09/07/policy/), or in the [publications in this repository](/en/publications/).
+You can learn more about our work in [this 2018 blog post](https://digital.canada.ca/2018/09/07/policy/), or in the [publications in this repository](/policy-politique/en/publications/).

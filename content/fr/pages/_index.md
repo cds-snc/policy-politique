@@ -11,7 +11,7 @@ menu:
 
 # Accueil
 
-Ce dépôt sert d’archive publique des travaux antérieurs entrepris [par notre équipe], en collaboration avec d’autres collectivités du SNC et avec des équipes à l’échelle du gouvernement du Canada. 
+Ce dépôt sert d’archive publique des travaux antérieurs entrepris [par notre équipe](/policy-politique/fr/a-propos-de-nous/), en collaboration avec d’autres collectivités du SNC et avec des équipes à l’échelle du gouvernement du Canada. 
 
 Ces documents sont publiés ici dans le cadre de l’engagement du SNC à [travailler ouvertement,](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) l’une des [normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) du gouvernement du Canada. Ils représentent une vue historique du travail du SNC et ne reflètent pas nécessairement son approche actuelle ou ses priorités stratégiques.
 

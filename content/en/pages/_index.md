@@ -11,7 +11,7 @@ menu:
 
 # Home
 
-This repository serves as a public archive of past work undertaken [by our team](/about), working with other CDS communities and with teams across the Government of Canada.
+This repository serves as a public archive of past work undertaken [by our team](/policy-politique/en/about/), working with other CDS communities and with teams across the Government of Canada.
 
 These documents are published here as part of CDS’s commitment to [working in the open](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), one of the Government of Canada’s [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html). They represent a historical view of CDS’s work, and may not necessarily reflect CDS’s current approach or strategic priorities.
 
