@@ -4,7 +4,7 @@ subtitle: "Modernizing how we design services for Canadians — and the systems 
 description: "The federal government’s struggles with technology as a core competency, particularly as it underpins service delivery, are no secret. The main impediments to changing this reality are not technological. They are our reluctance and inability to revisit service models, processes, rules, sunk costs, and organizational structures largely established in an analog, slower-moving era."
 date: 2019-11-01
 datePublished: 2021-08-10
-author: "John Millons, Anatole Papadopoulos, Sean Boots, Megan Beretta, Lucas Cherkewski"
+author: "John Millons, Anatole Papadopoulos, Aaron Snow, Sean Boots, Megan Beretta, Lucas Cherkewski"
 draft: false
 ---
 
