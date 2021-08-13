@@ -3,7 +3,7 @@ title: "Application d’une approche de couverture aux grands projets de TI du g
 subtitle: "(« Optionalité », « bifurcation des investissements », « assurance flexible »)"
 description: "L’application d’une approche de couverture est une façon d’introduire une option de rechange dans les grands projets de TI en cours; au lieu de miser sur une seule approche, une petite partie du financement du projet est consacrée à l’essai d’une autre méthode. Le montant consacré à l’approche de couverture est faible, comparativement au coût global du projet, et réduit le risque d’échec."
 date: 2019-10-07
-datePublished: 2021-09-10
+datePublished: 2021-08-10
 author: "Lucas Cherkewski, Sean Boots, John Millons, Anatole Papadopoulos"
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Atténuer les risques liés aux projets gouvernementaux de technologie d
 subtitle: "Exemples de questions pour le processus de remise en question"
 description: "Les Normes numériques du gouvernement du Canada (GC) fournissent un cadre utile pour le processus de remise en question, applicables aux services en ligne, aux systèmes administratifs et aux projets de TI en général. Ce guide est adapté des questions développées par 18F."
 date: 2020-02-28
-datePublished: 2021-09-10
+datePublished: 2021-08-10
 author: "Lucas Cherkewski"
 draft: false
 ---

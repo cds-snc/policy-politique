@@ -2,7 +2,7 @@
 title: "CDS Web Analytics Policy Checklist"
 description: "The goal of this checklist is to make it easy for any CDS delivery team to make sure their service’s use of web analytics is in line with the Standard on Privacy and Web Analytics."
 date: 2020-06-22
-datePublished: 2021-09-10
+datePublished: 2021-08-10
 author: "Sam Burton, Victoria Chan"
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Hedging for major government IT projects"
 subtitle: "(“Optionality”, “bifurcated investments”, “agile insurance”)"
 description: "Hedging is a way of introducing optionality to large, in-flight IT projects: instead of only betting big on a single approach, a small slice of the project funding is dedicated to trying another method. This hedge amount is small compared to the overall project cost, and decreases the risk of failure."
 date: 2019-10-07
-datePublished: 2021-09-10
+datePublished: 2021-08-10
 author: "Lucas Cherkewski, Sean Boots, John Millons, Anatole Papadopoulos"
 draft: false
 ---

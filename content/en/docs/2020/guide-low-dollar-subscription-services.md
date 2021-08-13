@@ -2,7 +2,7 @@
 title: "Guidance to CDS employees to request low-dollar value unclassified software subscription services"
 description: "Software subscription services are online tools, paid for on a monthly or annual basis. Many of these tools can help people collaborate, build software, monitor and troubleshoot systems, etc. If you’re a CDS staff member interested in using a software subscription service, follow this process to get it approved and paid for."
 date: 2020-04-21
-datePublished: 2021-09-12
+datePublished: 2021-08-12
 author: "Sean Boots, Jennifer Morin, Priyanka Rahman, CDS Internal Operations team"
 draft: false
 ---

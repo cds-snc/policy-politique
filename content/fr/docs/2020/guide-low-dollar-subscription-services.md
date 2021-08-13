@@ -2,7 +2,7 @@
 title: "Guide pour personnel de SNC pour les demandes de services d’abonnement logiciel non classifiés de faible valeur"
 description: "Les services d’abonnement logiciel sont des outils en ligne payés mensuellement ou annuellement. Bon nombre de ces outils peuvent aider les gens à collaborer, à développer des logiciels, à assurer la surveillance et le dépannage des systèmes, etc. Si vous êtes un membre du personnel de SNC intéressé à utiliser un service d’abonnement logiciel, suivez ce processus pour l’approbation et le paiement."
 date: 2020-04-21
-datePublished: 2021-09-12
+datePublished: 2021-08-12
 author: "Sean Boots, Jennifer Morin, Priyanka Rahman, l’Équipe des opérations internes"
 draft: false
 ---

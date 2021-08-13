@@ -3,7 +3,7 @@ title: "Fournir des services différemment"
 subtitle: "Moderniser la conception des services destinés aux Canadiens et les systèmes sous-jacents"
 description: "Les difficultés du gouvernement fédéral pour que la technologie devienne une compétence essentielle, surtout quand elle sous-tend la prestation de services, ne sont pas un secret. Les principaux obstacles au changement de cette réalité ne sont pas technologiques. Il s’agit de notre réticence et de notre incapacité à revoir les modèles de service, les processus, les règles, les coûts irrécupérables et les structures organisationnelles en grande partie établis dans une ère analogique et à évolution plus lente."
 date: 2019-11-01
-datePublished: 2021-09-10
+datePublished: 2021-08-10
 author: "John Millons, Anatole Papadopoulos, Sean Boots, Megan Beretta, Lucas Cherkewski"
 draft: false
 ---

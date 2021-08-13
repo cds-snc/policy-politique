@@ -2,7 +2,7 @@
 title: "Liste de contrôle des politiques sur l’analyse Web du SNC"
 description: "La présente liste de contrôle vise à faciliter le travail de toute équipe de prestation de services du SNC qui veut s’assurer que l’utilisation de leur service d’analyse Web est conforme à la Norme sur la protection de la vie privée et le Web analytique."
 date: 2020-06-22
-datePublished: 2021-09-10
+datePublished: 2021-08-10
 author: "Sam Burton, Victoria Chan"
 draft: false
 ---
