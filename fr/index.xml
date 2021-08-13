@@ -5,11 +5,7 @@
     <link>https://cds-snc.github.io/policy-politique/fr/</link>
     <description>Recent content on Dépôt de l’équipe politique SNC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 Jan 2021 18:03:01 -0700</lastBuildDate>
-    
-	<atom:link href="https://cds-snc.github.io/policy-politique/fr/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 25 Jan 2021 18:03:01 -0700</lastBuildDate><atom:link href="https://cds-snc.github.io/policy-politique/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>À propos de nous</title>
       <link>https://cds-snc.github.io/policy-politique/fr/a-propos-de-nous/</link>
@@ -28,7 +24,56 @@ Qui nous sommes  John Millons (chef des politiques) John Kenney Lucas Cherkew
       
       <guid>https://cds-snc.github.io/policy-politique/fr/publications/</guid>
       <description>Les documents ci-dessous sont énumérés par l’année où ils ont été effectués. Vous pouvez consulter d’autres métadonnées et imprimer des documents en suivant les liens ci-dessous :
-2019   Description Date complété      Offrir des services numériques d’ici 2025 Sommaire: Les Canadiennes et les Canadiens s’attendent à des services numériques qui reflètent l’ère d’Internet. Des mesures concrètes et audacieuses nous aideront à répondre à ces attentes.</description>
+2020   Description Date complété      Liste de contrôle des politiques sur l’analyse Web du SNC Sommaire: La présente liste de contrôle vise à faciliter le travail de toute équipe de prestation de services du SNC qui veut s’assurer que l’utilisation de leur service d’analyse Web est conforme à la Norme sur la protection de la vie privée et le Web analytique.</description>
+    </item>
+    
+    <item>
+      <title>Liste de contrôle des politiques sur l’analyse Web du SNC</title>
+      <link>https://cds-snc.github.io/policy-politique/fr/2020/liste-de-controle-des-politiques-sur-lanalyse-web-du-snc/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cds-snc.github.io/policy-politique/fr/2020/liste-de-controle-des-politiques-sur-lanalyse-web-du-snc/</guid>
+      <description>La présente liste de contrôle vise à faciliter le travail de toute équipe de prestation de services du Service numérique canadien (SNC) qui veut s’assurer que l’utilisation de leur service d’analyse Web est conforme à la Norme sur la protection de la vie privée et le Web analytique.
+Des questions? Demandez au conseiller en politiques de votre équipe de prestation ou à toute personne de l’équipe des politiques du SNC! #policy sur Slack est un excellent point de départ.</description>
+    </item>
+    
+    <item>
+      <title>Guide pour personnel de SNC pour les demandes de services d’abonnement logiciel non classifiés de faible valeur</title>
+      <link>https://cds-snc.github.io/policy-politique/fr/2020/guide-pour-personnel-de-snc-pour-les-demandes-de-services-dabonnement-logiciel-non-classifies-de-faible-valeur/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cds-snc.github.io/policy-politique/fr/2020/guide-pour-personnel-de-snc-pour-les-demandes-de-services-dabonnement-logiciel-non-classifies-de-faible-valeur/</guid>
+      <description>Si vous êtes un membre du personnel de SNC intéressé à utiliser un service d’abonnement logiciel, suivez ce processus pour l’approbation et le paiement.
+Comment déterminer si ce processus vous convient : Q1. S’agit-il d’un service d’abonnement logiciel? Les services d’abonnement logiciel sont des outils en ligne payés mensuellement ou annuellement. Bon nombre de ces outils peuvent aider les gens à collaborer, à développer des logiciels, à assurer la surveillance et le dépannage des systèmes, etc.</description>
+    </item>
+    
+    <item>
+      <title>Atténuer les risques liés aux projets gouvernementaux de technologie de l’information (TI)</title>
+      <link>https://cds-snc.github.io/policy-politique/fr/2020/attenuer-les-risques-lies-aux-projets-gouvernementaux-de-technologie-de-linformation-ti/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cds-snc.github.io/policy-politique/fr/2020/attenuer-les-risques-lies-aux-projets-gouvernementaux-de-technologie-de-linformation-ti/</guid>
+      <description>Guide développé par le Service numérique canadien
+Les Normes numériques du gouvernement du Canada (GC) fournissent un cadre utile pour le processus de remise en question, applicables aux services en ligne, aux systèmes administratifs et aux projets de TI en général. Parmi les autres documents de référence utiles, mentionnons 18F’s « De-risking government technology » guide et US DOD DIB Guide : Detecting Agile BS.
+Ce guide est adapté des questions développées par 18F.</description>
+    </item>
+    
+    <item>
+      <title>Fournir des services différemment</title>
+      <link>https://cds-snc.github.io/policy-politique/fr/2019/fournir-des-services-differemment/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cds-snc.github.io/policy-politique/fr/2019/fournir-des-services-differemment/</guid>
+      <description>Les difficultés du gouvernement fédéral pour que la technologie devienne une compétence essentielle, surtout quand elle sous-tend la prestation de services, ne sont pas un secret. L’écart entre les attentes des Canadiens et leur expérience des services fédéraux se creuse. Des systèmes et une infrastructure de TI vieillissants rendent difficile la mise en œuvre des changements de politiques, coûtent chaque année plus cher aux contribuables en matière d’entretien et de gestion des conséquences lorsqu’ils défaillent, et menacent de plus en plus la prestation de services essentiels au public.</description>
+    </item>
+    
+    <item>
+      <title>Application d’une approche de couverture aux grands projets de TI du gouvernement</title>
+      <link>https://cds-snc.github.io/policy-politique/fr/2019/application-dune-approche-de-couverture-aux-grands-projets-de-ti-du-gouvernement/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cds-snc.github.io/policy-politique/fr/2019/application-dune-approche-de-couverture-aux-grands-projets-de-ti-du-gouvernement/</guid>
+      <description>Les grands projets de TI sont susceptibles d’échouer. Moins de 7 % des projets de TI de plus de 10 millions de dollars sont couronnés de succès. Les échecs sont souvent attribuables à des délais non respectés et à des budgets serrés. De façon plus fréquente — et plus préoccupante —, ces échecs peuvent aussi se traduire par la prestation d’un service qui n’aide pas les personnes auxquelles il était destiné.</description>
     </item>
     
     <item>
@@ -39,6 +84,24 @@ Qui nous sommes  John Millons (chef des politiques) John Kenney Lucas Cherkew
       <guid>https://cds-snc.github.io/policy-politique/fr/2019/offrir-des-services-numeriques-dici-2025/</guid>
       <description>En septembre 2018, la Table sur les industries numériques, qui fait partie des Tables de stratégies économiques du Canada et qui regroupe une douzaine de chefs d’entreprise canadiens, a publié un rapport intitulé L’impératif de l’innovation et de la compétitivité : Saisir les occasions de croissance. Le rapport a clairement lancé ce défi au gouvernement du Canada :
  Rendre numériques tous les services du gouvernement qui s’adressent au public d’ici 2025, pour qu’ils soient accessibles sur Internet et les téléphones mobiles, et offerts par un système de connexion unifié.</description>
+    </item>
+    
+    <item>
+      <title>Réunir la prestation de services numériques et les politiques</title>
+      <link>https://cds-snc.github.io/policy-politique/fr/2018/reunir-la-prestation-de-services-numeriques-et-les-politiques/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cds-snc.github.io/policy-politique/fr/2018/reunir-la-prestation-de-services-numeriques-et-les-politiques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le commencement de la conversation… Une approche canadienne en matière de gouvernement numérique</title>
+      <link>https://cds-snc.github.io/policy-politique/fr/2017/le-commencement-de-la-conversation-une-approche-canadienne-en-matiere-de-gouvernement-numerique/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cds-snc.github.io/policy-politique/fr/2017/le-commencement-de-la-conversation-une-approche-canadienne-en-matiere-de-gouvernement-numerique/</guid>
+      <description></description>
     </item>
     
   </channel>

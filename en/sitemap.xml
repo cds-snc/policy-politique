@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://cds-snc.github.io/policy-politique/en/about/</loc>
     <lastmod>2021-01-25T18:03:01-07:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="en"
                 href="https://cds-snc.github.io/policy-politique/en/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cds-snc.github.io/policy-politique/en/</loc>
     <lastmod>2021-01-25T18:03:01-07:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="en"
                 href="https://cds-snc.github.io/policy-politique/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cds-snc.github.io/policy-politique/en/publications/</loc>
     <lastmod>2021-01-25T17:55:01-07:00</lastmod>
     <xhtml:link
@@ -45,9 +40,7 @@
                 hreflang="en"
                 href="https://cds-snc.github.io/policy-politique/en/publications/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cds-snc.github.io/policy-politique/en/</loc>
     <lastmod>2020-08-24T17:56:34-07:00</lastmod>
     <xhtml:link
@@ -60,9 +53,85 @@
                 hreflang="en"
                 href="https://cds-snc.github.io/policy-politique/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://cds-snc.github.io/policy-politique/en/2020/cds-web-analytics-policy-checklist/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cds-snc.github.io/policy-politique/fr/2020/liste-de-controle-des-politiques-sur-lanalyse-web-du-snc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cds-snc.github.io/policy-politique/en/2020/cds-web-analytics-policy-checklist/"
+                />
+  </url><url>
+    <loc>https://cds-snc.github.io/policy-politique/en/docs/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cds-snc.github.io/policy-politique/fr/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cds-snc.github.io/policy-politique/en/docs/"
+                />
+  </url><url>
+    <loc>https://cds-snc.github.io/policy-politique/en/2020/guidance-to-cds-employees-to-request-low-dollar-value-unclassified-software-subscription-services/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cds-snc.github.io/policy-politique/fr/2020/guide-pour-personnel-de-snc-pour-les-demandes-de-services-dabonnement-logiciel-non-classifies-de-faible-valeur/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cds-snc.github.io/policy-politique/en/2020/guidance-to-cds-employees-to-request-low-dollar-value-unclassified-software-subscription-services/"
+                />
+  </url><url>
+    <loc>https://cds-snc.github.io/policy-politique/en/2020/de-risking-government-it-projects/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cds-snc.github.io/policy-politique/fr/2020/attenuer-les-risques-lies-aux-projets-gouvernementaux-de-technologie-de-linformation-ti/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cds-snc.github.io/policy-politique/en/2020/de-risking-government-it-projects/"
+                />
+  </url><url>
+    <loc>https://cds-snc.github.io/policy-politique/en/2019/delivering-services-differently/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cds-snc.github.io/policy-politique/fr/2019/fournir-des-services-differemment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cds-snc.github.io/policy-politique/en/2019/delivering-services-differently/"
+                />
+  </url><url>
+    <loc>https://cds-snc.github.io/policy-politique/en/2019/hedging-for-major-government-it-projects/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cds-snc.github.io/policy-politique/fr/2019/application-dune-approche-de-couverture-aux-grands-projets-de-ti-du-gouvernement/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cds-snc.github.io/policy-politique/en/2019/hedging-for-major-government-it-projects/"
+                />
+  </url><url>
     <loc>https://cds-snc.github.io/policy-politique/en/2019/delivering-digital-services-by-2025/</loc>
     <lastmod>2019-05-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -75,24 +144,33 @@
                 hreflang="en"
                 href="https://cds-snc.github.io/policy-politique/en/2019/delivering-digital-services-by-2025/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://cds-snc.github.io/policy-politique/en/docs/</loc>
-    <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cds-snc.github.io/policy-politique/en/2018/bringing-together-policy-and-digital-delivery/</loc>
+    <lastmod>2018-09-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://cds-snc.github.io/policy-politique/fr/docs/"
+                href="https://cds-snc.github.io/policy-politique/fr/2018/reunir-la-prestation-de-services-numeriques-et-les-politiques/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cds-snc.github.io/policy-politique/en/docs/"
+                href="https://cds-snc.github.io/policy-politique/en/2018/bringing-together-policy-and-digital-delivery/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://cds-snc.github.io/policy-politique/en/2017/beginning-the-conversation-a-made-in-canada-approach-to-digital-government/</loc>
+    <lastmod>2017-07-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cds-snc.github.io/policy-politique/fr/2017/le-commencement-de-la-conversation-une-approche-canadienne-en-matiere-de-gouvernement-numerique/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cds-snc.github.io/policy-politique/en/2017/beginning-the-conversation-a-made-in-canada-approach-to-digital-government/"
+                />
+  </url><url>
     <loc>https://cds-snc.github.io/policy-politique/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -104,9 +182,7 @@
                 hreflang="en"
                 href="https://cds-snc.github.io/policy-politique/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cds-snc.github.io/policy-politique/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -119,5 +195,4 @@
                 href="https://cds-snc.github.io/policy-politique/en/tags/"
                 />
   </url>
-  
 </urlset>

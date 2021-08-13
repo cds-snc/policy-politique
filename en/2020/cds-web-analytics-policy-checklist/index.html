@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta charset="utf-8" />
+
+        <base href="https://cds-snc.github.io/policy-politique/">
+        <link rel="canonical" href="https://cds-snc.github.io/policy-politique/en/2020/cds-web-analytics-policy-checklist/">
+
+        <title>CDS Web Analytics Policy Checklist – CDS Policy Team Repository</title>
+
+<meta property="og:title" content="CDS Web Analytics Policy Checklist" />
+<meta property="og:description" content="The goal of this checklist is to make it easy for any CDS delivery team to make sure their service’s use of web analytics is in line with the Standard on Privacy and Web Analytics." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://cds-snc.github.io/policy-politique/en/2020/cds-web-analytics-policy-checklist/" /><meta property="article:section" content="docs" />
+<meta property="article:published_time" content="2020-06-22T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-06-22T00:00:00+00:00" /><meta property="og:site_name" content="CDS Policy Team Repository" />
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="CDS Web Analytics Policy Checklist"/>
+<meta name="twitter:description" content="The goal of this checklist is to make it easy for any CDS delivery team to make sure their service’s use of web analytics is in line with the Standard on Privacy and Web Analytics."/>
+
+
+        <link rel="stylesheet" href="https://cds-snc.github.io/policy-politique/css/normalize.css" />
+        <link rel="stylesheet" href="https://cds-snc.github.io/policy-politique/css/docs.css" />
+
+    </head>
+
+    <body>
+        <div class="container">
+          <header>
+            <div class="wrap">
+                
+                
+                <div class="site-title float-left">
+                
+                <a class="title-link" href="/policy-politique/en/">CDS Policy Team Repository</a>
+                </div>
+                
+                    
+                    <div class="float-right language-link d-print-none">
+                    
+                        <a href="https://cds-snc.github.io/policy-politique/fr/2020/liste-de-controle-des-politiques-sur-lanalyse-web-du-snc/">Français</a>
+                    
+                    </div>
+                
+            </div>
+          </header>
+    
+          <div class="wrap content">
+    
+            <section id="main" class="main-content" role="main">
+                
+                
+
+<div class="title-container">
+    <h1 class="page-title">CDS Web Analytics Policy Checklist</h1>
+
+    
+</div>
+
+<div class="docs-metadata-container">
+    <div class="docs-metadata">
+        <div class="float-left">
+            <span class="btn-text" title="Date completed">2020-06-22</span>
+        </div>
+        <div class="float-right d-print-none">
+            
+            <a class="btn js-toggle" href="#docs-metadata-details">Details</a>
+            <button class="btn" onclick="window.print()">Print</button>
+            <a class="btn" href="/policy-politique/en/publications/">See all publications</a>
+        </div>
+    </div>
+    <aside class="docs-metadata-details" id="docs-metadata-details" style="display: none;">
+        <table class="table">
+            <tbody>
+                <tr>
+                    <th style="width: 30%;">Date completed</th>
+                    <td>2020-06-22</td>
+                </tr>
+                
+                <tr>
+                    <th>Contributors</th>
+                    <td>Sam Burton, Victoria Chan</td>
+                </tr>
+                
+                
+                
+                <tr>
+                    <th>Summary</th>
+                    <td>The goal of this checklist is to make it easy for any CDS delivery team to make sure their service’s use of web analytics is in line with the Standard on Privacy and Web Analytics.</td>
+                </tr>
+                
+                
+                
+                <tr>
+                    <th><span title="Date added to this repository">Date added</span></th>
+                    <td>2021-08-10</td>
+                </tr>
+                
+            </tbody>
+        </table>
+    </aside>
+</div>
+
+<p><strong>The goal of this checklist</strong> is to make it easy for any CDS delivery team to make sure their service’s use of web analytics is in line with the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=26761">Standard on Privacy and Web Analytics (SPWA)</a>.</p>
+<p><strong>Questions?</strong> Ask the policy advisor on your delivery team, or anyone on the CDS policy team! #policy on Slack is a great place to start.</p>
+<p><strong>IP anonymization is enabled.</strong> The SPWA requires that we enable IP anonymization for any web analytics tool we use, so that it does not store personal information.</p>
+<p><em>Google Analytics:</em></p>
+<ul>
+<li>To enable anonymization, you need to modify the product code that loads GA. The approach varies depending on how GA is integrated into the product. Google has <a href="https://support.google.com/analytics/answer/2763052?hl=en">a site describing its IP anonymization process, with some links describing how to enable it</a>.</li>
+<li>Once anonymization is enabled, you can verify that the product is anonymizing IP addresses:
+<ol>
+<li>Load the product’s site in either Chrome or Firefox.</li>
+<li>Right click on the page and choose “Inspect” or “Inspect element” in the menu that appears.</li>
+<li>A new window should appear. This is the developer tools window. Navigate to the “Network” tab and refresh the product site to load new data. (This tab lists all the resources loaded to display a webpage.)</li>
+<li>In the Network tab’s filter box, type “collect”. There should now be one entry in the list, something that starts like “collect?v=1&amp;”. Select it.</li>
+<li>In Chrome, choose the “Headers” sub-tab and scroll to the “Query String Parameters” section. In Firefox, choose the “Params” sub-tab. You want to see “aip: 1” in the list. If it’s there, IP anonymization is enabled!</li>
+</ol>
+</li>
+</ul>
+<p><strong>All other analytics options that collect personal information are disabled</strong></p>
+<p><em>Google Analytics:</em></p>
+<ul>
+<li>This includes disabling demographic data (eg. extrapolates and stores info re: age, gender of users).</li>
+<li>Review <a href="https://support.google.com/analytics/answer/6366371?hl=en&amp;ref_topic=2919631">Best practices to avoid sending Personally Identifiable Information</a> with a developer on your team to ensure no personally identifiable information is inadvertently being transmitted to Google.</li>
+</ul>
+<p><strong>Data retention period is set for max 6 months, or the shortest  option available</strong></p>
+<p><em>Google Analytics:</em></p>
+<ul>
+<li>Set data retention period at 14 months. Google Analytics doesn&rsquo;t allow a retention period shorter than this, and most of the data collected by GA is exempt from the 6 month retention limit because it&rsquo;s aggregated.</li>
+</ul>
+<p><strong>The service’s privacy notice meets all of the following requirements, as set out in Appendix B of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=26761">Standard on Privacy and Web Analytics</a>:</strong></p>
+<ul>
+<li>A statement setting out the legislative authority for the collection of this information.</li>
+<li>An explanation of what Web analytics is and the purposes for use of Web analytics tools by the institution.</li>
+<li>A statement as to what specific personal information, including the IP address, is being automatically collected from visitors by the government institution.</li>
+<li>A statement advising visitors as to whether the Internet Protocol (IP) address and other data in digital markers is being collected and used internally by the institution for the purpose of Web analytics or is being disclosed or transmitted externally to a third party for that purpose.</li>
+<li>In cases where the IP address and other data in digital markers is disclosed or transmitted to a third party, an explanation of how the privacy of visitors to Government of Canada websites is being safeguarded through, at a minimum, the activation of the third-party anonymization feature whereby the third party depersonalizes the IP address.</li>
+<li>If data disclosed or transmitted for Web analytics is going outside of Canada, for example to the United States, a statement to that effect along with reference to any governing legislation that the information might be subject to, for example the<a href="http://www.fincen.gov/statutes_regs/patriot/"> USA Patriot Act</a>.</li>
+<li>A statement as to the maximum retention period for any personal information collected in relation to Web analytics.</li>
+</ul>
+<p><strong>Decide if/when to stop collecting data through a CDS-owned analytics platform</strong></p>
+<ul>
+<li>CDS may or may not continue to collect analytics data after a service is transitioned to a partner.</li>
+<li>As long as CDS is collect analytics data (eg. via a CDS-owned instance of Google Analytics), CDS' collection authority must remain in the privacy statement.</li>
+</ul>
+
+
+<div class="docs-metadata-container-footer">
+    <div class="docs-metadata">
+        <div class="float-right d-print-none">
+            <button class="btn" onclick="window.print()">Print</button>
+            <a class="btn" href="/policy-politique/en/publications/">See all publications</a>
+        </div>
+    </div>
+</div>
+
+
+            </section>
+          </div>
+          
+    
+          <footer class="d-print-none">
+            <div class="wrap">
+              
+              
+<p>
+  This project was built by the
+  <a href="https://digital.canada.ca"
+    >Canadian Digital Service</a
+  >. Read the
+  <a href="https://digital.canada.ca/legal/terms/"
+    >terms and conditions</a
+  >.
+</p>
+<p>
+  <a
+    href="https://github.com/cds-snc/policy-politique"
+    >Contribute to this documentation</a
+  >.
+</p>
+
+
+
+            </div>
+            
+          </footer>
+        </div>
+        
+
+        <script type="text/javascript">
+        
+
+
+
+
+var show = function (elem) {
+	elem.style.display = 'block';
+};
+
+
+var hide = function (elem) {
+	elem.style.display = 'none';
+};
+
+
+var toggle = function (elem) {
+
+	
+	if (window.getComputedStyle(elem).display === 'block') {
+		hide(elem);
+		return;
+	}
+
+	
+	show(elem);
+
+};
+
+
+document.addEventListener('click', function (event) {
+
+  
+  if (!event.target.classList.contains('js-toggle')) return;
+
+  
+  event.preventDefault();
+
+  
+  var content = document.querySelector(event.target.hash);
+  if (!content) return;
+
+  
+  toggle(content);
+
+}, false);
+
+        </script>
+      </body>
+</html>

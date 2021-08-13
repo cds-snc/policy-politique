@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://cds-snc.github.io/policy-politique/en/sitemap.xml</loc>
-		
-	   	<lastmod>2021-01-25T18:03:01-07:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://cds-snc.github.io/policy-politique/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2021-01-25T18:03:01-07:00</lastmod>
-		
-	</sitemap>
-	
+  
+  <sitemap>
+    <loc>https://cds-snc.github.io/policy-politique/en/sitemap.xml</loc>
+    
+      <lastmod>2021-01-25T18:03:01-07:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://cds-snc.github.io/policy-politique/fr/sitemap.xml</loc>
+    
+      <lastmod>2021-01-25T18:03:01-07:00</lastmod>
+    
+  </sitemap>
+  
 </sitemapindex>

@@ -5,10 +5,59 @@
     <link>https://cds-snc.github.io/policy-politique/en/docs/</link>
     <description>Recent content in Docs on CDS Policy Team Repository</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cds-snc.github.io/policy-politique/en/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CDS Web Analytics Policy Checklist</title>
+      <link>https://cds-snc.github.io/policy-politique/en/2020/cds-web-analytics-policy-checklist/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cds-snc.github.io/policy-politique/en/2020/cds-web-analytics-policy-checklist/</guid>
+      <description>The goal of this checklist is to make it easy for any CDS delivery team to make sure their service’s use of web analytics is in line with the Standard on Privacy and Web Analytics (SPWA).
+Questions? Ask the policy advisor on your delivery team, or anyone on the CDS policy team! #policy on Slack is a great place to start.
+IP anonymization is enabled. The SPWA requires that we enable IP anonymization for any web analytics tool we use, so that it does not store personal information.</description>
+    </item>
     
-	<atom:link href="https://cds-snc.github.io/policy-politique/en/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guidance to CDS employees to request low-dollar value unclassified software subscription services</title>
+      <link>https://cds-snc.github.io/policy-politique/en/2020/guidance-to-cds-employees-to-request-low-dollar-value-unclassified-software-subscription-services/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cds-snc.github.io/policy-politique/en/2020/guidance-to-cds-employees-to-request-low-dollar-value-unclassified-software-subscription-services/</guid>
+      <description>If you’re a CDS staff member interested in using a software subscription service, follow this process to get it approved and paid for.
+How to determine if this process is right for you: Q1. Is it a software subscription service? Software subscription services are online tools, paid for on a monthly or annual basis. Many of these tools can help people collaborate, build software, monitor and troubleshoot systems, etc.
+Some examples include Github, Trello, AirTable, MongoDB, etc.</description>
+    </item>
     
+    <item>
+      <title>De-risking government IT projects</title>
+      <link>https://cds-snc.github.io/policy-politique/en/2020/de-risking-government-it-projects/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cds-snc.github.io/policy-politique/en/2020/de-risking-government-it-projects/</guid>
+      <description>Guide developed by the Canadian Digital Service
+The GC Digital Standards provide a useful framing for challenge questions, applicable to online services, back-office systems, and IT projects in general. Other useful reference documents include 18F’s “De-risking government technology” guide and the US DOD DIB Guide: Detecting Agile BS.
+This guide is adapted from questions developed originally by 18F. We also suggest the list of aligned and non-aligned behaviors developed by the Digital Change Sector of the Office of the Chief Information Officer “Digital Standards In-Flight Check-in” (currently being finalized).</description>
+    </item>
+    
+    <item>
+      <title>Delivering services differently</title>
+      <link>https://cds-snc.github.io/policy-politique/en/2019/delivering-services-differently/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cds-snc.github.io/policy-politique/en/2019/delivering-services-differently/</guid>
+      <description>The federal government’s struggles with technology as a core competency, particularly as it underpins service delivery, are no secret. The gap between Canadians’ expectations and their federal service experiences is growing. Ageing IT systems and infrastructure make it hard to implement policy changes, cost taxpayers more every year to maintain and deal with the fallout when they fail, and increasingly threaten the delivery of critical services to the public.
+The main impediments to changing this reality are not technological.</description>
+    </item>
+    
+    <item>
+      <title>Hedging for major government IT projects</title>
+      <link>https://cds-snc.github.io/policy-politique/en/2019/hedging-for-major-government-it-projects/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cds-snc.github.io/policy-politique/en/2019/hedging-for-major-government-it-projects/</guid>
+      <description>Big IT projects are likely to fail. Less than 7% of IT projects over $10M succeed. These failures often include missed deadlines and overstretched budgets. More frequently – and more critically – these failures also include delivering something that does not help the people it was intended to serve.
+Established Government of Canada funding and project management processes incentivize the creation and execution of large IT projects. Moreover, dozens of large ($100M+), multi-year IT projects are in flight at any point in time across the federal government.</description>
+    </item>
     
     <item>
       <title>Delivering digital services by 2025</title>
@@ -18,6 +67,24 @@
       <guid>https://cds-snc.github.io/policy-politique/en/2019/delivering-digital-services-by-2025/</guid>
       <description>In September 2018, the Digital Industries Table — part of Canada’s Economic Strategy Tables and made up of a dozen Canadian business leaders — published a report titled The Innovation and Competitiveness Imperative: Seizing Opportunities for Growth. The report pointedly issued this challenge to the Government of Canada:
  Digitize all public-facing government services so they are accessible by web and mobile phone and available behind a unified login system by 2025.</description>
+    </item>
+    
+    <item>
+      <title>Bringing together policy and digital delivery</title>
+      <link>https://cds-snc.github.io/policy-politique/en/2018/bringing-together-policy-and-digital-delivery/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cds-snc.github.io/policy-politique/en/2018/bringing-together-policy-and-digital-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beginning the Conversation… A Made-in Canada Approach to Digital Government</title>
+      <link>https://cds-snc.github.io/policy-politique/en/2017/beginning-the-conversation-a-made-in-canada-approach-to-digital-government/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cds-snc.github.io/policy-politique/en/2017/beginning-the-conversation-a-made-in-canada-approach-to-digital-government/</guid>
+      <description></description>
     </item>
     
   </channel>
