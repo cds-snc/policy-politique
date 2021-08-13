@@ -49,4 +49,4 @@ _Google Analytics:_
 **Decide if/when to stop collecting data through a CDS-owned analytics platform**
 
 * CDS may or may not continue to collect analytics data after a service is transitioned to a partner. 
-* As long as CDS is collect analytics data (eg. via a CDS-owned instance of Google Analytics), CDS' collection authority must remain in the privacy statement.
+* As long as CDS is collecting analytics data (eg. via a CDS-owned instance of Google Analytics), CDS' collection authority must remain in the privacy statement.
