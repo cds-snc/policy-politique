@@ -16,6 +16,7 @@ languages:
       githubUrl: "https://github.com/cds-snc/policy-politique"
       logoSrc: ""
       logoAlt: ""
+      googleAnalytics: "G-2V4TYE1D6Z"
     Paginate: 6
     frontmatter:
       date: [":filename", ":default"]
@@ -35,6 +36,7 @@ languages:
       githubUrl: "https://github.com/cds-snc/policy-politique"
       logoSrc: ""
       logoAlt: ""
+      googleAnalytics: "G-2V4TYE1D6Z"
     Paginate: 6
     weight: 2
     frontmatter:
