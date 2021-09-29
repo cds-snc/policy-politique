@@ -13,6 +13,7 @@ The Policy team supports this mission by helping product teams, communities, and
 
 ## Who we are
 
+*   Courtney Claessens
 *   John Millons (head of policy)
 *   John Kenney
 *   Lucas Cherkewski

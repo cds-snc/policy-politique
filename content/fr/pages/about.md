@@ -16,6 +16,7 @@ L’équipe chargée des politiques appuie cette mission en aidant les équipes 
 
 
 
+*   Courtney Claessens
 *   John Millons (chef des politiques)
 *   John Kenney
 *   Lucas Cherkewski
