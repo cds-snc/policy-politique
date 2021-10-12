@@ -19,11 +19,14 @@ L’équipe chargée des politiques appuie cette mission en aidant les équipes 
 *   Courtney Claessens
 *   John Millons (chef des politiques)
 *   John Kenney
+*   Kaira Bakkestad-Legare
 *   Lucas Cherkewski
+*   Meghan Hellstern
 *   Michael Karlin
 *   Sam Burton
 *   Sarah Hobson
 *   Sean Boots
+*   Sharly Chan
 
 
 ### Ce que nous faisons
