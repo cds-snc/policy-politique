@@ -5,7 +5,11 @@
     <link>https://cds-snc.github.io/policy-politique/en/docs/</link>
     <description>Recent content in Docs on CDS Policy Team Repository</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cds-snc.github.io/policy-politique/en/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cds-snc.github.io/policy-politique/en/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>CDS Web Analytics Policy Checklist</title>
       <link>https://cds-snc.github.io/policy-politique/en/2020/cds-web-analytics-policy-checklist/</link>

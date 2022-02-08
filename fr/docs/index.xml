@@ -5,7 +5,11 @@
     <link>https://cds-snc.github.io/policy-politique/fr/docs/</link>
     <description>Recent content in Docs on Dépôt de l’équipe politique SNC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cds-snc.github.io/policy-politique/fr/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cds-snc.github.io/policy-politique/fr/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Liste de contrôle des politiques sur l’analyse Web du SNC</title>
       <link>https://cds-snc.github.io/policy-politique/fr/2020/liste-de-controle-des-politiques-sur-lanalyse-web-du-snc/</link>
