@@ -13,17 +13,17 @@ The Policy team supports this mission by helping product teams, communities, and
 
 ## Who we are
 
-*   Courtney Claessens
 *   John Millons (head of policy)
-*   John Kenney
 *   Kaira Bakkestad-Legare
 *   Lucas Cherkewski
 *   Meghan Hellstern
 *   Michael Karlin
+*   Nisa Malli
 *   Sam Burton
 *   Sarah Hobson
 *   Sean Boots
 *   Sharly Chan
+*   Tamreen Arif
 
 ## What we do
 
